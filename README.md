@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gauthiiii
+- 👋 Hi, I’m Gautham Shivashankarreddy
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently studying Business Analytics at Northeastern University
 - 📫 You can reach me at www.linkedin.com/in/gauthamas
